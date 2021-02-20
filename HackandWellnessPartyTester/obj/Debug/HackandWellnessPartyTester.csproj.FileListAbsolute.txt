@@ -1,0 +1,6 @@
+/Users/adam/Desktop/HackandWellnessPartyTester/HackandWellnessPartyTester/bin/Debug/HackandWellnessPartyTester.exe
+/Users/adam/Desktop/HackandWellnessPartyTester/HackandWellnessPartyTester/bin/Debug/HackandWellnessPartyTester.pdb
+/Users/adam/Desktop/HackandWellnessPartyTester/HackandWellnessPartyTester/obj/Debug/HackandWellnessPartyTester.csprojAssemblyReference.cache
+/Users/adam/Desktop/HackandWellnessPartyTester/HackandWellnessPartyTester/obj/Debug/HackandWellnessPartyTester.csproj.CoreCompileInputs.cache
+/Users/adam/Desktop/HackandWellnessPartyTester/HackandWellnessPartyTester/obj/Debug/HackandWellnessPartyTester.exe
+/Users/adam/Desktop/HackandWellnessPartyTester/HackandWellnessPartyTester/obj/Debug/HackandWellnessPartyTester.pdb
